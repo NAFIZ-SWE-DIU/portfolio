@@ -1,7 +1,7 @@
 <footer>
     <ul>
-        <li><a href="https://github.com/yourgithub">GitHub</a></li>
-        <li><a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a></li>
-        <!-- Add more social media links as needed -->
+        <li><a href="https://github.com/NAFIZ-SWE-DIU">GitHub</a></li>
+        <li><a href="https://linkedin.com/in/nafiz-swe-diu">LinkedIn</a></li>
+        <li><a href="https://www.facebook.com/NAFIZ.SWE.DIU/">FaceBook</a></li>
     </ul>
 </footer>
